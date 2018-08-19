@@ -1,0 +1,12 @@
+﻿<Application x:Class="Al_Updater.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Al_Updater"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Color x:Key="Transparent_Color">#01000000</Color>
+        <Color x:Key="Opacity_Dark_Black_Color">#CC000000</Color>
+        <Color x:Key="Opacity_Light_Black_Color">#99000000</Color>
+        <Color x:Key="White_Color">#FFEEEEEE</Color>
+    </Application.Resources>
+</Application>
